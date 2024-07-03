@@ -1,2 +1,3 @@
 Change from GH
 This is a new feature
+This line will introduce conflict
