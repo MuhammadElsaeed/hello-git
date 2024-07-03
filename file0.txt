@@ -1,1 +1,2 @@
 Change from GH
+This is a new feature
